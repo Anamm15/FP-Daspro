@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "*.jsx": "javascript",
+        "math.h": "c",
+        "string.h": "c",
+        "updatestok.h": "c"
+    }
+}
